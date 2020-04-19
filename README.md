@@ -1,4 +1,4 @@
-# ventilator
+# parametric ventilator design
 A simple COVID-19 ventilator hackable with limited resources and only few off the shelf technology components.
 
 I designed and built this simple ventilator when worried that one family member could have caught COVID-19 and that there would not be enough resources in hospitals to take care for them.
