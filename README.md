@@ -11,3 +11,4 @@ Obviously the design is not "approved" in any sense, nor it pretends to be a "me
 
 A parametric design of the ventilator is shared, where all the parameters desribing it can be changed, including the exact dimensions of the Ambu bag used and the thickness of the sheet material used.
 
+Much more in the [Ventilator wiki](https://github.com/lionzan/ventilator/wiki)
