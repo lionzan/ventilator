@@ -1,6 +1,6 @@
 # Bill of Materials
 
-The link shows an example of the material used. We assume that Ambu bag and respiratory pipe are supplied by the hospital so that they are compatibel (mine were not, but it's what I could find on ebay)
+The link shows an example of the material used. We assume that Ambu bag and respiratory pipe are supplied by the hospital so that they are compatible. Mine were not (but it's what I could find on ebay) so that I had to hack a way to connect them.
 
 Hospital supplies
 - #1 [Ambu bag](https://www.ebay.co.uk/itm/Adult-Resus-Bag-1600ml-Size-5-Mask-TDM-BVM-1600/153436778683?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)
