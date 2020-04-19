@@ -8,6 +8,8 @@ Hospital supplies
 
 Ventilator components
 - #1 [ESP32 board](https://www.ebay.co.uk/itm/ESP32-ESP32S-CP2102-Development-Board-2-4GHz-Dual-Mode-WiFi-Bluetooth-Antenna-UK/383382569967?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)
+- #1 [Monochrome OLED](https://www.ebay.co.uk/itm/128x64-OLED-I2C-White-Blue-Yellow-0-96-1-3-Arduino-Display-SSD1306-SH1106-UK/153344679511?hash=item23b40e1e57:m:mu86HAH---ncdguWIKqImtQ)
+- #3 [Push buttons](https://www.ebay.co.uk/itm/12mm-5V-LED-Light-Metal-Push-Button-Momentary-Switch-Water-Proof-Home-Supplies/202550885584?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)
 - #1 [NEMA motor](https://www.ebay.co.uk/itm/Nema-17-Stepper-Motor-59Ncm-84oz-in-48mm-2A-w-1m-Cable-Connector-3D-Printer/392150453830?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)
 - #1 [Threaded bar](https://www.ebay.co.uk/itm/T8-3D-Printer-8mm-Lead-Screw-Rod-Z-Axis-Linear-Rail-Bar-Shaft-300mm-350mm-400mm/383427101387?ssPageName=STRK%3AMEBIDX%3AIT&var=651854522572&_trksid=p2057872.m2749.l2649)
 - #1 [Flexible motor coupling](https://www.ebay.co.uk/itm/Flexible-Shaft-Motor-Coupling-Coupler-CNC-3D-Printer-4-5-6-6-35-8-10-1-4-UK/222982073093?ssPageName=STRK%3AMEBIDX%3AIT&var=522276674054&_trksid=p2057872.m2749.l2649)
