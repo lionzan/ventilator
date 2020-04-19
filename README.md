@@ -13,7 +13,7 @@ I am also aware that in situations of extreme lack of resources it might be very
 
 Obviously the design is not "approved" in any sense, nor it pretends to be a "medical device." It is intended to be used as the basis for improvements on the design and to be used under medical control and responsibility in all those cases in which a better designed product would not be available.
 
-A parametric design of the ventilator is shared under [[Construction Plans and Parameters]], where all the parameters describing it can be changed, including the exact dimensions of the Ambu bag used and the thickness of the sheet material used, which are the critical parameters to design a ventilator that "fits" the bags.
+A [parametric design of the ventilator](https://github.com/lionzan/ventilator/wiki/Construction-Plans-and-Parameters) is shared in the wiki. All the parameters describing it can be changed, including the exact dimensions of the Ambu bag used and the thickness of the sheet material used, which are the critical parameters to design a ventilator that "fits" the bags.
 
 ### Why I am sharing this
 There are many other designs out there, and certainly this is not particularly good in several aspects. I have been debated wether publishing this or not, till this afternoon when I heard a quote by artist Paul Klein who said something along the lines of 
